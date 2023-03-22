@@ -1,0 +1,25 @@
+[{
+        "question": "Fastest programming language in the world?",
+        "choice1": "Python",
+        "choice2": "javascript",
+        "choice3": "C++",
+        "choice4": "Go",
+        "answer": 3
+    },
+    {
+        "question": "The http you type at the beginning of any site's address stands for?",
+        "choice1": "HTML Transfer Technology Process",
+        "choice2": " Hyperspace Terms and Tech Protocol",
+        "choice3": " Hyperspace Techniques & Tech Progress",
+        "choice4": "Hyper Text Transfer Protocol",
+        "answer": 4
+    },
+    {
+        "question": ".JPG' extension refers usually to what kind of file??",
+        "choice1": "System file",
+        "choice2": "Animation/movie file",
+        "choice3": "MS Encarta document",
+        "choice4": "Image file",
+        "answer": 4
+    }
+]
